@@ -10,6 +10,23 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Markazi+Text:wght@400..700&family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Space+Mono&family=Work+Sans:ital@1&display=swap" rel="stylesheet">
+    <script src="handlebars.min.js"></script>
+    <script id="templateHB" type="text/x-handlebars-template">
+        {{#each lightnovel}}
+        <div id="block">
+        <article class="lightnovel">
+            <img class="lnimage" src="{{this.lnimage}}" alt="{{this.JPtitle}} first volume cover">
+            <div class="details">
+                <h2 class="JPtitle">{{this.JPtitle}}</h2>
+                <p class="roumaji">{{this.roumaji}}</p>
+                <p><u>Synopsis :</u></p>
+                <p class="synopsis">{{this.synopsis}}</p>
+                <a href="#">Learn more</a>
+            </div>
+        </article>
+        </div>
+        {{/each}}
+    </script>
 </head>
 
 <!-- header -->
@@ -25,29 +42,19 @@
 
     <div id="main">
         <h1>Light Novels list</h1>
-        <div class="main-content">
-            <img src="resources/images/oshinobihime.jpg" alt="o shinobi hime, first volume cover">
-            <h2>誘拐されそうになっている子を助けたら、お忍びで遊びに来ていたお姫様だった件</h2>
-            <p>(yuukai saresou ni natte iru ko wo tauketara, o shobi de asobi ni kiteita o hime-sama datta ken)</p>
-            <br>
-            <p><u>Synopsis :</u></p>
-            <p>Kiriyama Seito, an ordinary high school student, happens to witness a kidnapping in the middle of summer vacation.
-            Seito saves a girl named Luna who is about to be abducted, and ends up staying under the same roof as her, as she has nowhere to go.
-            As Seito cohabit with Luna, who is beautiful, has an incredible figure, and a cheerful personality, he gradually becomes attracted to her.
-            Then, on the first day of school, Luna suddenly becomes Seito's classmate as an exchange student.
-            It turns out that Luna is actually a princess of a certain country, and like Seito so much that she declares in front of everyone being Seito's fiancee! 
-            "I-I only do this with Seito-sama... I wouldn't do it with anyone else..." 
-            A sweet and romantic youth comedy with the refined, pure and innocent princess Luna!
-            </p>
-            <button>Learn more</button>
-        </div>
-        <div class="main-content">
-            <img src="resources/images/OtonariAsobi.jpg" alt="OtonariAsobi first volume cover">
-        </div>
-    </div>
 
+        <article class="lightnovel" id="informations">
+            
+            <section class="details">
+                
+            </section>
+        </article>
+    </div>
+        
     <footer>
         <p>Copyright : myself</p>
         <p>With the help of : passion</p>
     </footer>
+    <script src="main.js"></script>
 </body>
+</html>

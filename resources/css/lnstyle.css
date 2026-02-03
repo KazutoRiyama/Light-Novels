@@ -42,34 +42,54 @@ li a {
 
 #main {
     margin-top: 70px;
-    
     margin-bottom: 20px;
 }
 
 #main h1 {
     font-size: 2rem;
     text-align: center;
-    margin-bottom: 20px;
-    margin-left: 20px;
+    
 }
 
-.main-content {
+.lightnovel {
+    margin-left: 2%;
+    margin-right: 2%;
+    display: inline-block;
+    overflow: hidden;
+    vertical-align: middle;
+}
+
+#block {
     background-color: lightgray;
-    margin: 0 auto;
-    justify-content: center;
-    align-items: center;
-    align-content: center;
     border: solid 1px black;
+    margin-top: 2%;
+    padding: 1%;
+    border-radius: 15px;
+    width: auto;
 }
 
-.main-content img {
+.lnimage {
     float: inline-start;
+    margin-right: 1%;
 }
 
-.main-content p {
-    margin-right: 100px;
+.lightnovel p {
+    margin-right: 10%;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
+.lightnovel button {
+    background-color: rgb(194, 118, 18);
+    padding: 0 20% ;
+}
+
+.details {
+    vertical-align: middle;
+    width: 100%;
+    margin: 0 auto;
+    padding: 2%;
+}
 /* footer */
 
 footer {
