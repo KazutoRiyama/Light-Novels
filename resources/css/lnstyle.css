@@ -59,7 +59,7 @@ li a {
     vertical-align: middle;
 }
 
-#block {
+.lncontent {
     background-color: lightgray;
     border: solid 1px black;
     margin-top: 2%;
@@ -89,6 +89,11 @@ li a {
     width: 100%;
     margin: 0 auto;
     padding: 2%;
+}
+
+.lightnovel h2 {
+    font-size: 1rem;
+    margin-right: 100px;
 }
 /* footer */
 
