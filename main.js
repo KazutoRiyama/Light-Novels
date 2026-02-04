@@ -28,26 +28,29 @@ const context = {
         lnimage: 'resources/images/MakeHeroin.jpg',
         JPtitle: '負けヒロインが多すぎる！',
         roumaji: '(Make hiroin ga oosugiru!)',
-        synopsis: `「え？ マケインって誰のこと？」
+        synopsis: `"Huh? Who's a losing heroine ?"    I, Nukumizu Kazuhiko am a mob character in class.
+        One day I witnessed Yanami Anna, a popular girl, getting rejected ny a boy. "He said he would make me his wife, 
+        isn't that heartless?" "That, how old were you when it happened?" "4 or 5 years old."
+        That doesn't count. This leads to the emergence of a group of girls who feel defeated, Yakishio Lemon from
+        the track and field club and Komari Chika from the literature club..? "Nukumizu-kun, girls are divided into two types: 
+        childhood friends and homewrecker" "I see, that's a bold classification." Only after being defeated will these shining girls 
+        be happy. Unveil the story of losing heroines and their mysterious youth.`
+        },
+        {
+            lnimage: 'resources/images/kimizero.jpg',
+            JPtitle: '経験済みなキミと、 経験ゼロなオレが、 お付き合いする話',
+            roumaji: '(keikenzumi na kimi to, keiken zero ore ga, o tsukiai suru hanashi)',
+            synopsis: `A love story that's sure to make you feel wonderful when you read it.
+            "I-I love you!" "What? You mean Susuki?" Introverted high schooler Kashima Ryuuto 
+            is forced to confess his feelings to Shirakawa Luna the girl at the top of the school 
+            hierarchy and the one he admires, as a punishment game.The two end up dating for the unexpected 
+            reason, "Well, I'm single right now," but Ryuuto follows Luna as she is confessed by 
+            a handsome soccer club member and eavesdrops, while Luna brings up Ryuuto, who she just started dating, 
+            into her room as if it were the most natural thing in the world. The two are completely different in everything, 
+            from the friends they hang out with to the things they do for fun, but they are surprised by the gap between them 
+            every day, and they begin to accept each other and connect with each other. A love story that will surely make you 
+            feel wonderful as you read it begins!`
 
-                    クラスの背景である俺――温水和彦は、あるとき人気女子・八奈見杏菜が男子に振られるのを目撃する。
-
-                    「私をお嫁さんにするって言ったのに、ひどくないかな？」
-                    「それ、いくつの頃の話？」
-                    「４、５歳だけど」
-
-                    それはノーカンだろ。
-                    これをきっかけに、陸上部の焼塩檸檬、文芸部の小鞠知花など、負け感あふれる女子たちが現れて――？
-
-                    「温水君。女の子は２種類に分けられるの。幼馴染か、泥棒猫か」
-                    「なるほど、大胆な分類だ」
-
-                    負けてこそ輝く彼女たちに、幸いあれ。
-                    負けヒロイン――マケインたちに絡まれる謎の青春が、ここに幕を開ける！
-
-                    ※「ガ報」付き！
-
-                    ※この作品は底本と同じクオリティのカラーイラスト、モノクロの挿絵イラストが収録されています。`
         }
     ]
 };
