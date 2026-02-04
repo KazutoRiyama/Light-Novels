@@ -24,7 +24,7 @@ const context = {
             they suddenly started coming over in his appartment almost every day. The three of them play, eat dinner and go out together.
             As they spend time together, Akito and Charlotte naturally grow close, albeit akwardly. - the start of a sweet
             and frustrating love comedy next door!`,
-            link: ''
+            link: 'otonariasobi.html'
         },
         {
         lnimage: 'resources/images/MakeHeroin.jpg',
@@ -37,7 +37,7 @@ const context = {
         the track and field club and Komari Chika from the literature club..? "Nukumizu-kun, girls are divided into two types: 
         childhood friends and homewrecker" "I see, that's a bold classification." Only after being defeated will these shining girls 
         be happy. Unveil the story of losing heroines and their mysterious youth.`,
-        link: ''
+        link: 'makein.html'
         },
         {
             lnimage: 'resources/images/kimizero.jpg',
@@ -53,7 +53,7 @@ const context = {
             from the friends they hang out with to the things they do for fun, but they are surprised by the gap between them 
             every day, and they begin to accept each other and connect with each other. A love story that will surely make you 
             feel wonderful as you read it begins!`,
-            link: ''
+            link: 'kimizero.html'
 
         }
     ]

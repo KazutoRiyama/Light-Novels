@@ -210,7 +210,6 @@ tfoot td {
 
 footer {
     background-color: black;
-    color: white;
     padding-top: 10px;
     padding-left: 10px;
     padding-bottom: 10px;
@@ -218,4 +217,5 @@ footer {
 
 footer p {
     font-size: 0.8rem;
+    color: white;
 }
