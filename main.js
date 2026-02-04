@@ -54,7 +54,6 @@ const context = {
             every day, and they begin to accept each other and connect with each other. A love story that will surely make you 
             feel wonderful as you read it begins!`,
             link: 'kimizero.html'
-
         }
     ]
 };
