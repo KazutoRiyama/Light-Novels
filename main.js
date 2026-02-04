@@ -3,14 +3,15 @@ const context = {
         {
             lnimage: 'resources/images/oshinobihime.jpg',
             JPtitle: '誘拐されそうになっている子を助けたら、お忍びで遊びに来ていたお姫様だった件',
-            roumaji: '(yuukai saresou ni natte iru ko wo tauketara, o shobi de asobi ni kiteita o hime-sama datta ken)',
+            roumaji: '(yuukai saresou ni natte iru ko wo tauketara, o shinobi de asobi ni kiteita o hime-sama datta ken)',
             synopsis: `Kiriyama Seito, an ordinary high school student, happens to witness a kidnapping in the middle of summer vacation.
                 Seito saves a girl named Luna who is about to be abducted, and ends up staying under the same roof as her, as she has nowhere to go.
                 As Seito cohabit with Luna, who is beautiful, has an incredible figure, and a cheerful personality, he gradually becomes attracted to her.
                 Then, on the first day of school, Luna suddenly becomes Seito's classmate as an exchange student.
                 It turns out that Luna is actually a princess of a certain country, and like Seito so much that she declares in front of everyone being Seito's fiancee! 
                 "I-I only do this with Seito-sama... I wouldn't do it with anyone else..." 
-                A sweet and romantic youth comedy with the refined, pure and innocent princess Luna!`
+                A sweet and romantic youth comedy with the refined, pure and innocent princess Luna!`,
+            link: 'oshinobihime.html'
         },
         {
             lnimage: 'resources/images/OtonariAsobi.jpg',
@@ -22,7 +23,8 @@ const context = {
             Akito finds out that the Bennet sisters live in the appartment next door, and because Emma took a liking to him,
             they suddenly started coming over in his appartment almost every day. The three of them play, eat dinner and go out together.
             As they spend time together, Akito and Charlotte naturally grow close, albeit akwardly. - the start of a sweet
-            and frustrating love comedy next door!`
+            and frustrating love comedy next door!`,
+            link: ''
         },
         {
         lnimage: 'resources/images/MakeHeroin.jpg',
@@ -34,7 +36,8 @@ const context = {
         That doesn't count. This leads to the emergence of a group of girls who feel defeated, Yakishio Lemon from
         the track and field club and Komari Chika from the literature club..? "Nukumizu-kun, girls are divided into two types: 
         childhood friends and homewrecker" "I see, that's a bold classification." Only after being defeated will these shining girls 
-        be happy. Unveil the story of losing heroines and their mysterious youth.`
+        be happy. Unveil the story of losing heroines and their mysterious youth.`,
+        link: ''
         },
         {
             lnimage: 'resources/images/kimizero.jpg',
@@ -49,7 +52,8 @@ const context = {
             into her room as if it were the most natural thing in the world. The two are completely different in everything, 
             from the friends they hang out with to the things they do for fun, but they are surprised by the gap between them 
             every day, and they begin to accept each other and connect with each other. A love story that will surely make you 
-            feel wonderful as you read it begins!`
+            feel wonderful as you read it begins!`,
+            link: ''
 
         }
     ]

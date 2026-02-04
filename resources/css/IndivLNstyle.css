@@ -1,0 +1,196 @@
+* {
+  font-family: "Markazi Text", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+body {
+    background-color: beige;
+}
+
+p {
+    color: rgb(41, 41, 41);
+}
+
+/* header */
+
+header {
+    background-color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+    top: 0px;
+}
+
+li {
+     display: inline-block;
+}
+
+li a {
+    font-size: 1.3rem;
+    padding: 0px 15px;
+    color: white;
+    border-right: solid 1px white;
+    text-decoration: none;
+}
+
+/* BODY */
+
+/* banner section */
+
+h1 {
+    font-size: 2rem;
+    top: 50px;
+    position: relative;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    margin-top: 0px;
+    padding-bottom: 50px;
+    margin-bottom: 70px; 
+    background-color: lightgray; 
+}
+
+.banner {
+    margin: 0 60px;
+}
+
+.cover-banner {   
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+}
+
+.cover-banner img {
+    width: 15%;
+    height: auto; 
+    display: inline-block;
+    margin: auto 200px;
+}
+
+.cover-text {
+    text-align: center;
+    margin: 30px auto;
+    background-color: lightgrey;
+}
+
+.title-span {
+    font-size: 1.4rem;
+}
+
+.difficulty-note {
+    float: inline-end;
+    background-color: rgb(240, 243, 37);
+    padding: 10px;
+}
+/* Content section */
+
+.content {
+    margin: 0 60px;
+    background-color: rgb(255, 255, 188);
+    padding: 0 40px;
+    padding-bottom: 20px;
+}
+
+
+h2 {
+    font-size: 2rem;
+    text-decoration: underline;
+}
+
+.synopsis p {
+    font-size: 1.5rem;
+}
+
+.review p {
+    font-size: 1.5rem;
+}
+
+.genre {
+    font-size: 1.2rem;
+    text-decoration: underline;
+}
+
+h3 {
+    font-size: 1.2rem;
+    font-style: italic;
+}
+
+/* Table */
+
+.tab {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    table-layout: fixed;
+}
+
+table img {
+    width: 100px;
+}
+
+table {
+  border-collapse: collapse;
+  border: 2px solid rgb(140 140 140);
+  font-family: sans-serif;
+  font-size: 1rem;
+  letter-spacing: 1px;
+}
+
+caption {
+  caption-side: bottom;
+  padding: 10px;
+  font-weight: bold;
+}
+
+thead,
+tfoot {
+  background-color: rgb(228 240 245);
+}
+
+th,
+td {
+  border: 1px solid rgb(160 160 160);
+  padding: 20px 50px;
+}
+
+td:last-of-type {
+  text-align: center;
+}
+
+tbody > tr:nth-of-type(even) {
+  background-color: rgb(237 238 242);
+}
+
+tfoot th {
+  text-align: right;
+}
+
+tfoot td {
+  font-weight: bold;
+}
+
+/* bottom content */
+
+.japanese-learning {
+    margin: 0 60px;
+}
+
+/* footer */
+
+footer {
+    background-color: black;
+    color: white;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+footer p {
+    font-size: 0.8rem;
+}
